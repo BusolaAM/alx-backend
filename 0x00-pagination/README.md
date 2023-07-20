@@ -1,7 +1,8 @@
 # This README file is for the 0x00. Pagination project. In this folder you will fing the following files
 
-**Setup:** **``Popular_Baby_Names.csv``**
-``use this data file`` for your project
+## **Setup:** **Popular_Baby_Names.csv**
+
+hsl(0, 82.40%, 46.90%) for your project
 
 ## Project Tasks
 
