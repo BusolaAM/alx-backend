@@ -2,7 +2,7 @@
 
 ## **Setup:** **Popular_Baby_Names.csv**
 
-hsl(0, 82.40%, 46.90%) for your project
+use this data file for your project
 
 ## Project Tasks
 
